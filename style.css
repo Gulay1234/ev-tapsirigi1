@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    width: 30vw !important;
+    height: 20vh;
+    margin: 60px auto;
+}
+h1{
+    color: green !important;
+    font-family: sans-serif;
+    text-align: center;
+    margin-top: 10px;
+}
+.btn-primary{
+    margin-top: 40px;
+    margin-left: 80px;
+}
+.btn-warning{
+    margin-top: 40px;
+}
+.btn-success{
+    margin-top: 40px;
+}
